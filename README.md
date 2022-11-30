@@ -1,0 +1,1 @@
+This django-crm project
